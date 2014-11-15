@@ -15,6 +15,9 @@
         "plugin",
         "eve"
     ],
+    "nbbpm": {
+    	"compatibility": "^0.6.0"
+    },
     "author": "Schamper <mrwafflewaffle@aim.com>",
     "license": "BSD-2-Clause",
     "bugs": {
